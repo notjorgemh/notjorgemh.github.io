@@ -4,9 +4,9 @@ description: Oldschool tech with digital hearts.
 markdown: kramdown
 
 header_pages:
-  - home
-  - CMP/1
-  - about
+  - index.md
+  - cmp_1.md
+  - about.md
 
 style: dark
 listen_for_clients_preferred_style: true
